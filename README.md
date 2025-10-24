@@ -1,5 +1,14 @@
 # 📨 RemoveDuplicatasAWK v3
 [![Doar AWKInfo](https://img.shields.io/badge/💙_Doar-via_Pix-blue)](https://awkinformatica.com/DoarAWK.jpg)
+## 💙 Apoie o projeto
+
+Se este aplicativo ajudou você, considere apoiar o desenvolvimento:
+
+🇧🇷 **Doar via Pix:** dentro do aplicativo (botão 💙 Doar)  
+🌍 **Doar via PayPal:** [Clique aqui para doar](https://www.paypal.com/donate/?hosted_button_id=JTNWE9KR7U4VJ&source=qr)
+
+[![Doar via PayPal](https://img.shields.io/badge/Doar-PayPal-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=JTNWE9KR7U4VJ&source=qr)
+
 
 Ferramenta gratuita da **AWKInfo Tecnologia** para remover mensagens duplicadas do Microsoft Outlook.
 
